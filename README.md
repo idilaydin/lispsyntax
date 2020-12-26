@@ -4,9 +4,9 @@ An extension for Common Lisp syntax highligting on VSCode.
 
 ## Features
 
-[]: # "Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file."
+<!--Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file."
 
-<!-- For example if there is an image subfolder under your extension project workspace:
+ For example if there is an image subfolder under your extension project workspace:
 
 \!\[feature X\]\(images/feature-x.png\)
 
@@ -49,6 +49,7 @@ Fixed issue #.
 Added features X, Y, and Z.
 !-->
 -----------------------------------------------------------------------------------------------------------
+<!--
 ## Working with Markdown
 
 **Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
@@ -63,3 +64,4 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+--!>
