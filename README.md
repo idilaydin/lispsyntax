@@ -1,12 +1,12 @@
 # lispsyntax README
 
-This is the README for your extension "lispsyntax". After writing up a brief description, we recommend including the following sections.
+An extension for Common Lisp syntax highligting on VSCode. 
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+[]: # "Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file."
 
-For example if there is an image subfolder under your extension project workspace:
+<!-- For example if there is an image subfolder under your extension project workspace:
 
 \!\[feature X\]\(images/feature-x.png\)
 
@@ -31,6 +31,7 @@ This extension contributes the following settings:
 
 Calling out known issues can help limit users opening duplicate issues against your extension.
 
+
 ## Release Notes
 
 Users appreciate release notes as you update your extension.
@@ -46,9 +47,8 @@ Fixed issue #.
 ### 1.1.0
 
 Added features X, Y, and Z.
-
+!-->
 -----------------------------------------------------------------------------------------------------------
-
 ## Working with Markdown
 
 **Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
